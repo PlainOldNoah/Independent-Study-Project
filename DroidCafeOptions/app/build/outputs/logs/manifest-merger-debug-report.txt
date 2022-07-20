@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noah\.gradle\caches\transforms-3\37a89574294ef810607c464b0b9bee65\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:21:5-44:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noah\.gradle\caches\transforms-3\37a89574294ef810607c464b0b9bee65\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noah\.gradle\caches\transforms-3\37a89574294ef810607c464b0b9bee65\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafeoptions.MainActivity
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:29:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafeoptions.OrderActivity
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:39:13-57
+	android:name
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:41:13-42:48
+	android:value
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml:41:24-70
+uses-sdk
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noah\.gradle\caches\transforms-3\37a89574294ef810607c464b0b9bee65\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Noah\.gradle\caches\transforms-3\37a89574294ef810607c464b0b9bee65\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		ADDED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Main_Hub\School\College\Computers\Independent Study\DroidCafeOptions\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\3c703ecd1b1769300f328186356af04f\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\6d83ffe1948e43cb4a9d44966af5d62c\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\07bad828e3d7319fd16ec308a896a782\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\9e81ae33e1d70c88744a347a7aa7502c\transformed\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\ecae5850ed9012023aa59f08ce95add1\transformed\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\0d2bc947752964e88d04e2694d226af4\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\49e52b28c604961e845061b3c2bf329f\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\c0035f9323e464a8a1bf7b9c69bac6b8\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\228d07ee459f3a5c69b70f63cdbc458f\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\e44cda6d421d3b40bf495fee7a1739c8\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\87d9dcaa22a0177c5b9ce8827488aacc\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Noah\.gradle\caches\transforms-3\acb5f0caae5edd71fe94fd422a8979a6\transformed\design-26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noah\.gradle\caches\transforms-3\55cbffad3ffe61cb398e2340432f599b\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
