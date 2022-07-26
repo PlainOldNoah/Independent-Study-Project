@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Main_Hub/School/College/Computers/Independent Study/SoftballApp/app/src/main/res/layout/activity_main.xml" value="0.575" />
+        <entry key="..\:/Users/plain/Noah's Things/School/College/Computers/Independent Study/android-training-project/SoftballApp/app/src/main/res/layout/activity_main.xml" value="0.5546875" />
+        <entry key="..\:/Users/plain/Noah's Things/School/College/Computers/Independent Study/android-training-project/SoftballApp/softball_app/src/main/res/layout/activity_main.xml" value="0.7112970711297071" />
+        <entry key="..\:/Users/plain/Noah's Things/School/College/Computers/Independent Study/android-training-project/SoftballApp/watch_app/src/main/res/layout/activity_main.xml" value="0.4027196652719665" />
       </map>
     </option>
   </component>
@@ -12,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5546875" />
+      </ProjectState>
+    </option>
   </component>
 </project>
