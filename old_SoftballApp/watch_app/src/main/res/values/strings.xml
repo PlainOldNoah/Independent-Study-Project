@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">watch_app</string>
+    <string name="default_display">00-00-00</string>
+</resources>

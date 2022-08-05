@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Softball App</string>
-    <string name="second">Second</string>
-    <string name="third">Third</string>
-    <string name="first">First</string>
-    <string name="home">Home</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="channel_name">code_notification</string>
+    <string name="channel_description">The channel for sending the set code from the phone to the watch</string>
 </resources>

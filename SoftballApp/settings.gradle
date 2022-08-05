@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Softball App"
 include ':app'
-include ':watch_app'
